@@ -1,25 +1,35 @@
 # Hi, I'm Ganesh 👋
 
-Azure DevOps Engineer with 4+ years of experience in CI/CD Automation, Azure Cloud, Terraform, Docker, Kubernetes, and .NET.
+.NET Developer with 4+ years of experience in C#, ASP.NET Core, SQL Server, and enterprise application development.
 
-## Skills
+Currently upskilling in Azure DevOps, CI/CD, Docker, Kubernetes, Terraform, and Azure Cloud technologies.
 
+## Technical Skills
+
+### Development
+- C#
+- ASP.NET Core
+- Web API
+- SQL Server
+- Entity Framework
+- Git
+
+### Learning & Building
 - Azure DevOps
 - Azure Cloud
 - Terraform
 - Docker
-- Kubernetes (AKS)
+- Kubernetes
 - GitHub Actions
 - PowerShell
-- CI/CD
 
-## Featured Projects
+## Career Goal
 
-### Azure DevOps AKS CI/CD
-Automated build, test, Docker image creation, and deployment to AKS.
+Transitioning from .NET Development to Azure DevOps Engineering by combining software development experience with cloud automation and CI/CD practices.
 
-### Azure Terraform Infrastructure
-Provision Azure resources using modular Terraform code.
+## Projects
 
-### DevSecOps Pipeline
-Integrated SonarQube and Trivy security scanning into Azure Pipelines.
+- ASP.NET Core Web API
+- Dockerized .NET Application
+- Azure DevOps CI/CD Pipeline
+- Terraform Azure Infrastructure
